@@ -3,6 +3,10 @@
 Run a video through three classical computer vision views and compare them with the original footage.
 Built for the Weird Signal post *Same Wave, Four Views: What a Machine Sees at High Tide*.
 
+[![Four views of high tide at La Jolla](media/four_views_still.jpg)](media/four_views_demo.mp4)
+
+*Demo (720p, 33 s): [media/four_views_demo.mp4](media/four_views_demo.mp4). Footage: high tide, La Jolla CA, 2026-11-15.*
+
 | View | Method | What it shows |
 | --- | --- | --- |
 | Optical flow | Farneback dense flow, median flow subtracted (camera shake) | Direction (hue) and speed (opacity) of moving water |
