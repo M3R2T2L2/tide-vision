@@ -7,6 +7,11 @@ Built for the Weird Signal post *Same Wave, Four Views: What a Machine Sees at H
 
 *Demo (720p, 33 s): [media/four_views_demo.mp4](media/four_views_demo.mp4). Footage: high tide, La Jolla CA, 2026-11-15.*
 
+**Watch on YouTube**
+
+- [High Tide, La Jolla: How a Person Sees It vs. How a Machine Does](https://www.youtube.com/watch?v=25XsUqsimOo) (side by side: original and optical flow view)
+- [Same Wave, Four Views: High Tide at La Jolla Through Computer Vision](https://www.youtube.com/shorts/ToZP9ZID0FQ) (vertical Short, wipes through all four views)
+
 | View | Method | What it shows |
 | --- | --- | --- |
 | Optical flow | Farneback dense flow, median flow subtracted (camera shake) | Direction (hue) and speed (opacity) of moving water |
